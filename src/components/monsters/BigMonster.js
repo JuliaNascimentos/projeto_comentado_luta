@@ -1,5 +1,5 @@
-class BigMonster extends Character {
-    constructor() {
+class BigMonster extends Character{
+    constructor(){
         super('Big Monster')
         this.life = 80
         this.attack = 15
